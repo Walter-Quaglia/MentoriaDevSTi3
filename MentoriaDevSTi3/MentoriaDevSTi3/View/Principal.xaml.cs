@@ -1,4 +1,5 @@
-﻿using MentoriaDevSTi3.View.UserControls;
+﻿using MentoriaDevSti3.Data.Context;
+using MentoriaDevSTi3.View.UserControls;
 using System.Windows;
 using System.Windows.Controls;
 
@@ -12,6 +13,13 @@ namespace MentoriaDevSTi3.View
         public Principal()
         {
             InitializeComponent();
+            AplicarMigracoes();
+        }
+
+        private void AplicarMigracoes()
+        {
+            using var context = new MentoriaDevSti3Context();
+            context.AplicarMicracoes();
         }
 
         private void BtnMenu_Click(object sender, RoutedEventArgs e)

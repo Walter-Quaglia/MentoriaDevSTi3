@@ -1,0 +1,12 @@
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\obj\Debug\netcoreapp3.1\MentoriaDevSti3.Data.csproj.AssemblyReference.cache
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\obj\Debug\netcoreapp3.1\MentoriaDevSti3.Data.AssemblyInfoInputs.cache
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\obj\Debug\netcoreapp3.1\MentoriaDevSti3.Data.AssemblyInfo.cs
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\obj\Debug\netcoreapp3.1\MentoriaDevSti3.Data.csproj.CoreCompileInputs.cache
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\bin\Debug\netcoreapp3.1\MentoriaDevSti3.Data.deps.json
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\bin\Debug\netcoreapp3.1\MentoriaDevSti3.Data.runtimeconfig.json
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\bin\Debug\netcoreapp3.1\MentoriaDevSti3.Data.runtimeconfig.dev.json
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\bin\Debug\netcoreapp3.1\MentoriaDevSti3.Data.dll
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\bin\Debug\netcoreapp3.1\MentoriaDevSti3.Data.pdb
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\obj\Debug\netcoreapp3.1\MentoriaDevSti3.Data.dll
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\obj\Debug\netcoreapp3.1\MentoriaDevSti3.Data.pdb
+C:\Users\Walter Quaglia\Documents\MentoriaDevSTi3\MentoriaDevSTi3\MentoriaDevSti3.Data\obj\Debug\netcoreapp3.1\MentoriaDevSti3.Data.genruntimeconfig.cache

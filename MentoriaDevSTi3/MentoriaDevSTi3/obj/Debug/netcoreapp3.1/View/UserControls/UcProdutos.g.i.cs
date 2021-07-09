@@ -69,7 +69,7 @@ namespace MentoriaDevSTi3.View.UserControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MentoriaDevSTi3;V1.0.0.0;component/view/usercontrols/ucprodutos.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MentoriaDevSTi3;component/view/usercontrols/ucprodutos.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\View\UserControls\UcProdutos.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
