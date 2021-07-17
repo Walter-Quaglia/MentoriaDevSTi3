@@ -112,8 +112,9 @@
                                         Click="BtnAlterar_Click"/>
 
                             <Button x:Name="BtnRemover" 
-                                        Width="100" Margin="10,0,0,0" Content="Remover" 
-                                        Style="{StaticResource BtnArredondado}" Background="DarkRed" Foreground="White"/>
+                                        Width="100" Margin="10,0,0,0" Content="Remover" Tag="{Binding}"
+                                        Style="{StaticResource BtnArredondado}" Background="DarkRed" Foreground="White"
+                                        Click="BtnRemover_Click"/>
                         </StackPanel>
 
                         <Border Grid.ColumnSpan="3" Style="{StaticResource BrdSeparadorItens}" />

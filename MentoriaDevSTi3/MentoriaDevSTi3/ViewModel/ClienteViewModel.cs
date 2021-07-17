@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 
 namespace MentoriaDevSTi3.ViewModel
 {
@@ -6,8 +6,9 @@ namespace MentoriaDevSTi3.ViewModel
     {
         public string Nome { get; set; }
         public DateTime DataNascimento { get; set; }
-        public int Cep { get; set; }
+        public string Cep { get; set; }
         public string Endereco { get; set; }
         public string Cidade { get; set; }
+        public long Id { get; internal set; }
     }
 }

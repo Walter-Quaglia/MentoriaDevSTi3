@@ -72,13 +72,16 @@
                         
                         <StackPanel Grid.Column="2"
                                     Orientation="Horizontal" Height="25" Margin="0,0,0,5">
+                            
                             <Button x:Name="BtnAlterar"
                                     Width="100" Content="Alterar" Tag="{Binding}"
                                     Style="{StaticResource BtnArredondado}" Background="MidnightBlue" Foreground="White"
                                     Click="BtnAlterar_Click"/>
-                            <Button x:Name="BtnRemover"
-                                    Width="100" Margin="10,0,0,0" Content="Remover" 
-                                    Style="{StaticResource BtnArredondado}" Background="DarkRed" Foreground="White"/>
+
+                            <Button x:Name="BtnRemover" 
+                                    Width="100" Margin="10,0,0,0" Content="Remover" Tag="{Binding}"
+                                    Style="{StaticResource BtnArredondado}" Background="DarkRed" Foreground="White"
+                                    Click="BtnRemover_Click"/>
                         </StackPanel>
 
                         <Border Grid.ColumnSpan="3" Style="{StaticResource BrdSeparadorItens}" />
