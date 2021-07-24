@@ -45,10 +45,11 @@ namespace MentoriaDevSti3.Data.Migrations
                 {
                     Id = table.Column<long>(type: "bigint", nullable: false)
                         .Annotation("MySQL:ValueGenerationStrategy", MySQLValueGenerationStrategy.IdentityColumn),
-                    ClientId = table.Column<long>(type: "bigint", nullable: false),
+                    ClienteId = table.Column<long>(type: "bigint", nullable: true),
+                    //ClienteId = table.Column<long>(type: "bigint", nullable: false),
                     FormaPagamento = table.Column<string>(type: "text", nullable: true),
-                    Valor = table.Column<decimal>(type: "decimal(18, 2)", nullable: false),
-                    ClienteId = table.Column<long>(type: "bigint", nullable: true)
+                    Valor = table.Column<decimal>(type: "decimal(18, 2)", nullable: false)
+                    
                 },
                 constraints: table =>
                 {

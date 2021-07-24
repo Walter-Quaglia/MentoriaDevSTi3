@@ -1,6 +1,5 @@
 ﻿using System.Collections.ObjectModel;
 
-
 namespace MentoriaDevSTi3.ViewModel
 {
     public class UcPedidoViewModel : PropertyChange

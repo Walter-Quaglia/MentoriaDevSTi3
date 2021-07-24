@@ -61,7 +61,7 @@ namespace MentoriaDevSTi3.View.UserControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MentoriaDevSTi3;V1.0.0.0;component/view/usercontrols/ucclientes.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MentoriaDevSTi3;component/view/usercontrols/ucclientes.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\View\UserControls\UcClientes.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,9 +1,6 @@
 ﻿using MentoriaDevSti3.Data.Entidades;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace MentoriaDevSti3.Data.Mappings
 {

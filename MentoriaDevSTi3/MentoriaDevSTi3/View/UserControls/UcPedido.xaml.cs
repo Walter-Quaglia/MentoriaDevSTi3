@@ -6,7 +6,6 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
 
-
 namespace MentoriaDevSTi3.View.UserControls
 {
     /// <summary>
@@ -72,7 +71,6 @@ namespace MentoriaDevSTi3.View.UserControls
                 ValorUnit = UcPedidoVm.ValorUnit,
                 ValorTotalItem = UcPedidoVm.Quantidade * UcPedidoVm.ValorUnit,
                 ProdutoId = produtoSelecionado.Id
-
             };
 
             UcPedidoVm.ItensAdicionados.Add(itemVm);

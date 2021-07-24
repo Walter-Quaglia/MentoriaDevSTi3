@@ -21,7 +21,7 @@ namespace MentoriaDevSTi3.Business
                 ClienteId = pedidoViewModel.ClienteId,
                 FormaPagamento = pedidoViewModel.FormaPagamento,
                 Valor = pedidoViewModel.Valor,
-                ItensPedido = pedidoViewModel.ItensPedidoViewModel.Select(s => new ItemPedido
+                ItensPedido = pedidoViewModel.ItensPedido.Select(s => new ItemPedido
                 {
                     ProdutoId = s.ProdutoId,
                     Quantidade = s.Quantidade,

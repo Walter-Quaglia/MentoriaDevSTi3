@@ -9,6 +9,6 @@ namespace MentoriaDevSTi3.ViewModel
         public string Cep { get; set; }
         public string Endereco { get; set; }
         public string Cidade { get; set; }
-        public long Id { get; internal set; }
+        public long Id { get; set; }
     }
 }
